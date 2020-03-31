@@ -8,7 +8,7 @@ const particlesJSON = {
             }
         },
         "color": {
-            "value": "#ff9800"
+            "value": "#ec407a"
         },
         "shape": {
             "type": "polygon",
