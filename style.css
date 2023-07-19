@@ -28,6 +28,12 @@
       margin-top: 140px;
  }
 
+.scrollable-menu {
+    height: auto;
+    max-height: 200px;
+    overflow-x: hidden;
+}
+
  .color-line{
   border-color: 4px solid #ec407a;
  }
@@ -443,8 +449,3 @@ h2::after{
   text-decoration: none;
   border-radius: 50%;
 }*/
-
-.dropdown-menu {
-     height: 500px; // change it as you like
-     overflow-y: auto;
-}
