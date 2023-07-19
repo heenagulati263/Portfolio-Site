@@ -1,0 +1,46 @@
+﻿WEBVTT
+
+1
+00:00:01.510 --> 00:00:03.110 line:75%
+<v Instructor>Sign Up, heading.</v>
+
+2
+00:00:04.013 --> 00:00:05.283 line:75%
+Star indicates required.
+
+3
+00:00:06.490 --> 00:00:09.993 line:75%
+Name, star. Name, star, text field.
+
+4
+00:00:10.960 --> 00:00:11.973 line:75%
+Double tap to edit.
+
+5
+00:00:13.160 --> 00:00:16.560 line:75%
+Date of Birth, star. Date of Birth, star
+
+6
+00:00:16.560 --> 00:00:20.163 line:75%
+Date picker, April 1st, 2021, collapsed.
+
+7
+00:00:21.130 --> 00:00:23.070 line:75%
+Double tap to expand.
+
+8
+00:00:23.070 --> 00:00:24.363 line:75%
+Next button.
+
+9
+00:00:26.420 --> 00:00:27.253 line:75%
+Alert. Error.
+
+10
+00:00:29.190 --> 00:00:30.223 line:75%
+Name is required.
+
+11
+00:00:31.760 --> 00:00:32.923 line:75%
+OK, button.
+
